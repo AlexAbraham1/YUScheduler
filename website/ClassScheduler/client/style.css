@@ -1,0 +1,17 @@
+.bold {
+	font-weight: 500;
+}
+
+.calendar {
+	margin-top: -85px;
+}
+
+nav, h4 {
+	position: fixed;
+	padding-left: 15px;
+
+}
+
+.col.s12.m3.search {
+	margin-top: 40px;
+}

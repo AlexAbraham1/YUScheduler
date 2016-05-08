@@ -1,0 +1,27 @@
+<template name="SternClasses">
+  <div class="col s2">
+    {{#each sternClasses}}
+      <h5 class="blue-text title">{{title}}</h5>
+      <h6 class="blue-text text-lighten-2">{{prof}}</h6>
+      <h6 class="blue-text text-darken-2">Time 1: {{time1start}}</h6>
+      {{#if time2start}}
+        <h6 class="blue-text text-darken-2">Time 2: {{time2start}}</h6>
+      {{/if}}
+      <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
+      <br>
+    {{/each}}
+  </div>
+
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <p>Credits: {{currentMoreInfo.credits}}</p>
+      <p>CRN: {{currentMoreInfo.crn}}
+	
+	
+      </p>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+    </div>
+  </div>
+</template>

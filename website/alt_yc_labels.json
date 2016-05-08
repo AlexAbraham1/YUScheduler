@@ -1,0 +1,301 @@
+{
+   "Art": [
+      "Rembrandt and the Jews -- Jacob Wisse, Meir Yakov Soloveichik ",
+      "Evolution of the Skyscraper -- Paul Glassman",
+      "Architectural Design Process -- Paul Glassman",
+      "Principles of Drawing -- Carla Aurich",
+      "Printmaking -- Carla Aurich"
+   ],
+   "Bible": [
+      "Bible:Text, Context, Tradition -- Moshe J. Bernstein",
+      "Bible:Text, Context, Tradition -- Shalom Carmy",
+      "Bible:Text, Context, Tradition -- Moshe J. Bernstein",
+      "Bible:Text, Context, Tradition -- Shalom Carmy",
+      "Bible:Text, Context, Tradition -- Yaakov Elman",
+      "Biblical Midrashim -- Elazar Hurvitz",
+      "Genesis -- Barry L. Eichler",
+      "Exodus -- Shalom Carmy",
+      "Psalms -- Joseph L. Angel",
+      "Proverbs -- Jeremy Wieder",
+      "Job -- Elazar Hurvitz",
+      "Daniel -- J. Mitchell Orlian",
+      "Daniel -- J. Mitchell Orlian"
+   ],
+   "Biology": [
+      "Principles Lab -- Sondra Solomon",
+      "Principles Lab -- Aaron Kogut",
+      "Principles Lab -- Sondra Solomon",
+      "Principles Lectures -- Somdeb Mitra",
+      "Biochemistry Lab -- Somdeb Mitra",
+      "Biochemistry Lecture -- Daniel Lim",
+      "Cell Structure & Function -- Vincent Chiappetta",
+      "Cell Biology -- Yakov Peter",
+      "Genetics -- Josefa M. Steinhauer",
+      "Human & Animal Physiology -- Sumanta Goswami",
+      "Microbiology Lab -- TBA",
+      "Microbiology -- Moses D. Tendler",
+      "Research in Biology -- 08/29-01/11",
+      "Topics: Psychopharmacology -- Esther Devorah Rollhaus",
+      "Topics: Stem Cells -- Yakov Peter"
+   ],
+   "Chemistry": [
+      "General Chemistry I Lec -- James Camara",
+      "Chemical Analysis -- Jianfeng Jiang",
+      "Organic Chemistry I Lec -- Fabiola Barrios-Landeros",
+      "Organic Chemistry Lab -- Daniel Lim",
+      "Organic Chemistry Lab -- Racquel K. Malcolm-Whyte",
+      "Organic Chemistry Lab -- Fabiola Barrios-Landeros",
+      "Biochemistry Lab -- Somdeb Mitra",
+      "Biochemistry Lec -- Daniel Lim",
+      "Physical Chemistry I -- Raji Viswanathan",
+      "Research in Chemistry -- 08/29-01/11"
+   ],
+   "Computer Science": [
+      "Intro to Computer Science -- Van Kelly",
+      "Intro to Computer Science-Lab -- Mahdokht Behravan",
+      "Intro to Computer Science-Lab -- Mahdokht Behravan",
+      "Data Structures -- TBA",
+      "Data Structures Lab -- TBA",
+      "Discrete Structures -- Arnold Lebow",
+      "Theory of Computation -- Arnold Lebow",
+      "Intro to Operating Systems -- TBA",
+      "Web Programming & Development -- Van Kelly"
+   ],
+   "Contemporary World Cultures": [
+      "Diaspora Literature -- Elizabeth Stewart",
+      "American Musical Cultures -- Jonathan Schapiro",
+      "The Spanish Civil War -- Graciela Bazet de Broitman",
+      "Politics and Global Markets -- Roberto Genoves",
+      "Religion and Society -- Jonathan J. Zisook"
+   ],
+   "Cultures Over Time": [
+      "The Monstrous -- David Lavinsky",
+      "The Monstrous -- David Lavinsky",
+      "France and its Others -- Rachel Mesch",
+      "Democratic Political Culture -- Jeffrey Freedman",
+      "History of the Alphabet -- Aaron J. Koller"
+   ],
+   "Economics": [
+      "Principles of Economics -- Ran Shao",
+      "Game Theory -- Tadashi Hashimoto",
+      "Intermediate Macroeconomics -- Omer Acikgoz",
+      "Money and Banking -- Elias C. Grivoyannis",
+      "Econometrics -- Aboozar Hadavand",
+      "International Economics -- Elias C. Grivoyannis"
+   ],
+   "English": [
+      "ESL: Intro to College -- Norma Silbermintz",
+      "Eng as Sec Lang I -- Norma Silbermintz",
+      "Eng as Sec Lang II -- Norma Silbermintz",
+      "Eng as Sec Lang III -- Norma Silbermintz",
+      "Diaspora Literature -- Elizabeth Stewart",
+      "Shakespeare and the Arts -- William Lamborn Lee",
+      "Fiction & Artistic Imagination -- Richard Leonard Nochimson",
+      "Writing the Essay -- Liesl Schwabe",
+      "Realisms: Mimetic to Magical -- William Lamborn Lee",
+      "21st Century Chaucer -- David Lavinsky",
+      "Graphic Novels and Animation -- Elizabeth Stewart",
+      "Gender and Literature -- Rachel Mesch",
+      "Senior Colloquium -- Lauren Fitzgerald"
+   ],
+   "Experimental & Quant. Methods": [
+      "Analysis of Environmntl Toxins -- Raji Viswanathan",
+      "Epidemiology -- Daniel Kimmel"
+   ],
+   "First Year Writing": [
+      "First Year Writing -- TBA",
+      "First Year Writing -- TBA",
+      "First Year Writing -- TBA",
+      "First Year Writing:ESL -- Norma Silbermintz",
+      "First Year Writing -- TBA",
+      "First Year Writing -- TBA",
+      "First Year Writing -- TBA",
+      "First Year Writing -- TBA",
+      "First Year Writing -- TBA"
+   ],
+   "French": [
+      "Elementary French I -- Raisa Rexer",
+      "Intermediate French I -- Raisa Rexer"
+   ],
+   "Hebrew": [
+      "Elementary Biblical Hebrew II -- Lori Linzer",
+      "Elementary Biblical Hebrew II -- Lori Linzer",
+      "Intermed. Biblical Hebrew I -- Rachel Kra Schaum",
+      "Intermed. Biblical Hebrew I -- Rachel Kra Schaum",
+      "Intermed. Biblical Hebrew II -- Ezra H. Frazer",
+      "Intermed. Biblical Hebrew II -- Ezra H. Frazer",
+      "Intermediate Hebrew I -- Chaya Glaser",
+      "Intermediate Hebrew I -- Chaya Glaser",
+      "Intermediate Hebrew II -- Chaya Glaser",
+      "Upper Intermediate Hebrew II -- Sigal Shalom",
+      "Upper Intermediate Hebrew II -- Samuel Schneider",
+      "Upper Intermediate Hebrew II -- Samuel Schneider",
+      "Upper Intermediate Hebrew II -- Samuel Schneider",
+      "Upper Intermediate Hebrew II -- Sigal Shalom",
+      "Advanced Hebrew II -- Sarah Kasher-Bendet",
+      "Advanced Hebrew II -- Sarah Kasher-Bendet",
+      "Advanced Hebrew II -- Sarah Kasher-Bendet"
+   ],
+   "History": [
+      "His. of the Ancient Near East -- Shalom E. Holtz",
+      "The European Enlightenment -- Jeffrey Freedman",
+      "Democratic Political Culture -- Jeffrey Freedman",
+      "Europe since 1945 -- Mario Kessler",
+      "Atlantic World -- Douglas Burgess",
+      "Piracy & the Nation State -- Douglas Burgess"
+   ],
+   "Honors": [
+      "Honors Thesis Proposal -- Gabriel Cwilich",
+      "Honors Thesis Seminar I -- TBA",
+      "Honors Thesis Seminar II -- TBA",
+      "Honors Thesis: Preparation -- Gabriel Cwilich",
+      "Honors Thesis: Writing -- Gabriel Cwilich"
+   ],
+   "Human Behavior Soc Institution": [
+      "Economics Efficiency & Justice -- Elias C. Grivoyannis",
+      "Psychology and Public Opinion -- Ariel Malka",
+      "Psychology and Public Opinion -- Ariel Malka",
+      "Courts and Social Change -- Akiva J. Covitz",
+      "American Public Policy -- Jamie Aroosi",
+      "Sociology of Race and Racism -- Amy Stuart"
+   ],
+   "Interpreting the Creative": [
+      "Shakespeare and the Arts -- William Lamborn Lee",
+      "Fiction & Artistic Imagination -- Richard Leonard Nochimson",
+      "Culture of the Fin de Siecle -- Jess J. Olson",
+      "Aesthetic Revolutions -- Daniel Beliavsky",
+      "Travel Narratives -- Ronnie Perelis",
+      "Rembrandt and the Jews -- Jacob Wisse, Meir Yakov Soloveichik "
+   ],
+   "Jewish History": [
+      "Classical Jewish History -- Steven Fine",
+      "Medieval Jewish History -- Chaviva Levin",
+      "Medieval Jewish History -- Chaviva Levin",
+      "Modern Jewish History -- Joshua Karlip",
+      "Modern Jewish History -- Jess J. Olson",
+      "Classical Intellectual JHI -- Moshe J. Bernstein",
+      "Modern Intellectual JHI -- Shalom Carmy"
+   ],
+   "Jewish Philosophy": [
+      "Early Kabbalah -- Jonathan V. Dauber"
+   ],
+   "Mathematics": [
+      "Precalculus -- Donald Taylor-Bruce",
+      "Problem Seminar I -- Yan Li",
+      "Problem Seminar I -- Yan Li",
+      "Problem Seminar I -- Yan Li",
+      "Problem Seminar II -- Yan Li",
+      "Problem Seminar III -- Donald Taylor-Bruce",
+      "Calculus I -- Yan Li",
+      "Calculus II -- Wenxiong Chen",
+      "Discrete Structures -- Arnold Lebow",
+      "Multivariable Calculus -- Wenxiong Chen",
+      "Advanced Calculus I -- Wenxiong Chen",
+      "Linear Algebra -- Maxwell Musser",
+      "Probability Theory -- Arnold Lebow"
+   ],
+   "Music": [
+      "American Musical Cultures -- Jonathan Schapiro",
+      "Aesthetic Revolutions -- Daniel Beliavsky",
+      "Baroque & Classical Music -- Daniel Beliavsky",
+      "Music and the Brain -- Harry Ballan",
+      "Diatonic Harmony&Counterpoint -- Daniel Beliavsky",
+      "Ear Training I -- Daniel Beliavsky",
+      "Chromatic Harmony I -- Kurt Nelson",
+      "Ear Training III -- Kurt Nelson",
+      "Introduction to Composition -- Jonathan Schapiro",
+      "Performance: Chamber Ensemble -- Daniel Beliavsky",
+      "Performance: Jazz Ensemble -- Jonathan Schapiro",
+      "Applied Musical Study -- Daniel Beliavsky"
+   ],
+   "Natural World": [
+      "Frontiers of Science -- TBA",
+      "The Imagination of Nature -- Gabriel Cwilich"
+   ],
+   "Philosophy": [
+      "Logic -- David R. Johnson",
+      "Ancient & Medieval Philosophy -- David R. Johnson",
+      "Topics: Kant -- Daniel Rynhold",
+      "Topics: Judaism and Democracy -- Meir Yakov Soloveichik",
+      "Seminar: Paradoxes -- David R. Johnson"
+   ],
+   "Physical Education": [
+      "Team Golf -- 08/29-01/11",
+      "Team Volleyball -- 08/29-01/11",
+      "Team Tennis -- 08/29-01/11",
+      "Team Basketball -- 08/29-01/11",
+      "Team Soccer -- 08/29-01/11",
+      "Team Baseball -- 08/29-01/11",
+      "Team Cross-Country -- 08/29-01/11",
+      "Team Fencing -- 08/29-01/11"
+   ],
+   "Physics": [
+      "Intro Physics Lab -- Neer Asherie",
+      "Intro Physics Lab -- Sheldon J Rosenberg",
+      "Intro Physics Lab -- Clifford Marc Bastuscheck",
+      "Intro Physics Lecture -- Neer Asherie",
+      "Intro Physics I - Recitation -- Neer Asherie",
+      "Intro Physics I - Recitation -- Neer Asherie",
+      "General Physics I -- Fredy Zypman",
+      "General Physics I-Recitation -- Mahdokht Behravan",
+      "Intro to Solid State Physics -- Fredy Zypman",
+      "Statistical Mechanics -- Gabriel Cwilich",
+      "Intro to Quantum Mechanics -- Sergey V. Buldyrev",
+      "General Physics III -- Sergey V. Buldyrev",
+      "General Physics III-Recitation -- Sergey V. Buldyrev",
+      "General Physics III Lab -- Mahdokht Behravan",
+      "General Physics III Lab -- Mahdokht Behravan",
+      "Research in Physics -- 08/29-01/11",
+      "Physics Colloquium -- Mahdokht Behravan"
+   ],
+   "Political Science": [
+      "Intro to American Politics -- Jamie Aroosi",
+      "Intro American Public Policy -- Jamie Aroosi",
+      "American Foreign Policy -- Maria N. Zaitseva",
+      "Fundamentals of Political Sci. -- Ruth Bevan",
+      "Politics and Global Markets -- Roberto Genoves",
+      "American Political Thought -- Ruth Bevan",
+      "Writing Politics:Dir. Research -- Maria N. Zaitseva",
+      "Presidential Elections -- Joseph Lieberman, Ruth Bevan ",
+      "Research Methods -- TBA"
+   ],
+   "Psychology": [
+      "Introduction to Psychology -- Eliezer H. Schnall",
+      "Introduction to Psychology -- Jenny Isaacs",
+      "Statistics for Psychology -- Ariel Malka",
+      "Developmental I: Child -- Eliezer H. Schnall",
+      "Developmental II -- Stephen I. Glicksman",
+      "Experimental Psychology -- Bruno Galantucci",
+      "Cognitive Psychology -- Bruno Galantucci",
+      "Abnormal Psychology -- Jenny Isaacs",
+      "Social Psychology -- Eliezer H. Schnall",
+      "Psychology and Public Opinion -- Ariel Malka",
+      "Psychology and Public Opinion -- Ariel Malka",
+      "Industrial & Organization Psyc -- E. Hoffman",
+      "Drugs & Behavior -- Ari Shechter",
+      "Psychobiology -- Ido Davidesco",
+      "Music and the Brain -- Harry Ballan",
+      "Research in Psychology -- 08/29-01/11",
+      "Topics: Psychopharmacology -- Esther Devorah Rollhaus",
+      "Research Seminar -- Jenny Isaacs"
+   ],
+   "Sociology": [
+      "Introduction to Sociology -- Daniel Kimmel",
+      "Religion and Society -- Jonathan J. Zisook",
+      "Sociology of Race and Racism -- Amy Stuart",
+      "Epidemiology -- Daniel Kimmel",
+      "Social Psychology -- Eliezer H. Schnall",
+      "Social Research Methods -- TBA"
+   ],
+   "Spanish": [
+      "Elementary Spanish I -- Graciela Bazet de Broitman",
+      "Elementary Spanish I -- Graciela Bazet de Broitman",
+      "Intermediate Spanish I -- Graciela Bazet de Broitman"
+   ],
+   "Statistics": [
+      "Intro to Statistics -- Andreas Kakolyris"
+   ],
+   "Theater Arts": [
+      "Art of the Actor -- Lin Snider"
+   ]
+}

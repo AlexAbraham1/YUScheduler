@@ -1,0 +1,47 @@
+<template name="yc">
+  {{> nav}}
+  <div class="row">
+    <input class="col s12 m3 search" placeholder="search">
+  </div>
+  <div class="row">
+    <div class="col s12 m3">
+      {{#if search}}
+        {{#each search}}
+          <h5 class="blue-text title">{{title}}</h5>
+          <h6 class="blue-text text-lighten-2">{{prof}}</h6>
+          <h6 class="blue-text text-darken-2">Time 1: {{time1start}}</h6>
+          {{#if time2start}}
+            <h6 class="blue-text text-darken-2">Time 2: {{time2start}}</h6>
+          {{/if}}
+          <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
+          <br>
+        {{/each}}
+      {{else}}
+        {{#each ycClasses}}
+          <h5 class="blue-text title">{{title}}</h5>
+          <h6 class="blue-text text-lighten-2">{{prof}}</h6>
+          <h6 class="blue-text text-darken-2">Time 1: {{time1start}}</h6>
+          {{#if time2start}}
+            <h6 class="blue-text text-darken-2">Time 2: {{time2start}}</h6>
+          {{/if}}
+          <a href="#" class="blue-text text-lighten-3" id="more-info">More info</a>
+          <br>
+        {{/each}}
+      {{/if}}
+
+      <div id="modal1" class="modal">
+        <div class="modal-content">
+          <p>Credits: {{currentMoreInfo.credits}}</p>
+          <p>CRN: {{currentMoreInfo.crn}}</p>
+          <button class = "delete">Delete</button>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Ok</a>
+        </div>
+      </div>
+    </div>
+    <div class="col s12 m9 calendar">
+      {{> calendar}}
+    </div>
+  </div>
+</template>
